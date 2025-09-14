@@ -1,0 +1,13 @@
+/* CurrentStatus.css */
+.status-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  font-size: 18px;
+}
+.trackbus-status {
+  text-align: center;
+  font-weight: bold;
+  color: #333;
+  margin-top: 20px;
+}
